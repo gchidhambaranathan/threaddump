@@ -1,0 +1,116 @@
+*************************************Wed Nov 15 16:30:56 IST 2017*************************************Wed Nov 15 16:30:56 IST 2017
+"pool-1-thread-6" Id=14 in TIMED_WAITING"pool-1-thread-6" Id=14 in TIMED_WAITING
+    at java.lang.Thread.sleep(Native Method)    at java.lang.Thread.sleep(Native Method)
+    at java.lang.Thread.sleep(Thread.java:302)    at java.lang.Thread.sleep(Thread.java:302)
+    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)
+    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@fc9944      - java.util.concurrent.locks.ReentrantLock$NonfairSync@fc9944
+
+"pool-1-thread-5" Id=13 in TIMED_WAITING"pool-1-thread-5" Id=13 in TIMED_WAITING
+    at java.lang.Thread.sleep(Native Method)    at java.lang.Thread.sleep(Native Method)
+    at java.lang.Thread.sleep(Thread.java:302)    at java.lang.Thread.sleep(Thread.java:302)
+    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)
+    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@1b26af3      - java.util.concurrent.locks.ReentrantLock$NonfairSync@1b26af3
+
+"pool-1-thread-4" Id=12 in TIMED_WAITING"pool-1-thread-4" Id=12 in TIMED_WAITING
+    at java.lang.Thread.sleep(Native Method)    at java.lang.Thread.sleep(Native Method)
+    at java.lang.Thread.sleep(Thread.java:302)    at java.lang.Thread.sleep(Thread.java:302)
+    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)
+    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@8b819f      - java.util.concurrent.locks.ReentrantLock$NonfairSync@8b819f
+
+"pool-1-thread-3" Id=11 in TIMED_WAITING"pool-1-thread-3" Id=11 in TIMED_WAITING
+    at java.lang.Thread.sleep(Native Method)    at java.lang.Thread.sleep(Native Method)
+    at java.lang.Thread.sleep(Thread.java:302)    at java.lang.Thread.sleep(Thread.java:302)
+    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)
+    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@eb017e      - java.util.concurrent.locks.ReentrantLock$NonfairSync@eb017e
+
+"pool-1-thread-2" Id=10 in TIMED_WAITING"pool-1-thread-2" Id=10 in TIMED_WAITING
+    at java.lang.Thread.sleep(Native Method)    at java.lang.Thread.sleep(Native Method)
+    at java.lang.Thread.sleep(Thread.java:302)    at java.lang.Thread.sleep(Thread.java:302)
+    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)    at java.util.concurrent.TimeUnit.sleep(TimeUnit.java:328)
+    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)    at com.mxbean.DumpMain$MyOwnThread.run(DumpMain.java:30)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@aeffdf      - java.util.concurrent.locks.ReentrantLock$NonfairSync@aeffdf
+
+"pool-1-thread-1" Id=9 in RUNNABLE"pool-1-thread-1" Id=9 in RUNNABLE
+    at sun.management.ThreadImpl.dumpThreads0(Native Method)    at sun.management.ThreadImpl.dumpThreads0(Native Method)
+    at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:433)    at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:433)
+    at com.mxbean.ThreadDump.dumpThreadInfoWithLocks(ThreadDump.java:38)    at com.mxbean.ThreadDump.dumpThreadInfoWithLocks(ThreadDump.java:38)
+    at com.mxbean.FileWatcher.checkFileModifiled(FileWatcher.java:23)    at com.mxbean.FileWatcher.checkFileModifiled(FileWatcher.java:23)
+    at com.mxbean.FileWatcher.run(FileWatcher.java:35)    at com.mxbean.FileWatcher.run(FileWatcher.java:35)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+    at java.lang.Thread.run(Thread.java:662)    at java.lang.Thread.run(Thread.java:662)
+
+    Locked synchronizers: count = 1    Locked synchronizers: count = 1
+      - java.util.concurrent.locks.ReentrantLock$NonfairSync@120a47e      - java.util.concurrent.locks.ReentrantLock$NonfairSync@120a47e
+
+"Monitor Ctrl-Break" Id=5 in RUNNABLE (running in native)"Monitor Ctrl-Break" Id=5 in RUNNABLE (running in native)
+    at java.net.SocketInputStream.socketRead0(Native Method)    at java.net.SocketInputStream.socketRead0(Native Method)
+    at java.net.SocketInputStream.read(SocketInputStream.java:129)    at java.net.SocketInputStream.read(SocketInputStream.java:129)
+    at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:264)    at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:264)
+    at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:306)    at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:306)
+    at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:158)    at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:158)
+      - locked java.io.InputStreamReader@f73c1      - locked java.io.InputStreamReader@f73c1
+    at java.io.InputStreamReader.read(InputStreamReader.java:167)    at java.io.InputStreamReader.read(InputStreamReader.java:167)
+    at java.io.BufferedReader.fill(BufferedReader.java:136)    at java.io.BufferedReader.fill(BufferedReader.java:136)
+    at java.io.BufferedReader.readLine(BufferedReader.java:299)    at java.io.BufferedReader.readLine(BufferedReader.java:299)
+      - locked java.io.InputStreamReader@f73c1      - locked java.io.InputStreamReader@f73c1
+    at java.io.BufferedReader.readLine(BufferedReader.java:362)    at java.io.BufferedReader.readLine(BufferedReader.java:362)
+    at com.intellij.rt.execution.application.AppMainV2$1.run(AppMainV2.java:64)    at com.intellij.rt.execution.application.AppMainV2$1.run(AppMainV2.java:64)
+
+    Locked synchronizers: count = 0    Locked synchronizers: count = 0
+
+"Signal Dispatcher" Id=4 in RUNNABLE"Signal Dispatcher" Id=4 in RUNNABLE
+
+    Locked synchronizers: count = 0    Locked synchronizers: count = 0
+
+"Finalizer" Id=3 in WAITING on lock=java.lang.ref.ReferenceQueue$Lock@789144"Finalizer" Id=3 in WAITING on lock=java.lang.ref.ReferenceQueue$Lock@789144
+    at java.lang.Object.wait(Native Method)    at java.lang.Object.wait(Native Method)
+    at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:118)    at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:118)
+    at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:134)    at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:134)
+    at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:171)    at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:171)
+
+    Locked synchronizers: count = 0    Locked synchronizers: count = 0
+
+"Reference Handler" Id=2 in WAITING on lock=java.lang.ref.Reference$Lock@1893efe"Reference Handler" Id=2 in WAITING on lock=java.lang.ref.Reference$Lock@1893efe
+    at java.lang.Object.wait(Native Method)    at java.lang.Object.wait(Native Method)
+    at java.lang.Object.wait(Object.java:485)    at java.lang.Object.wait(Object.java:485)
+    at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:116)    at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:116)
+
+    Locked synchronizers: count = 0    Locked synchronizers: count = 0
+
+"DestroyJavaVM" Id=15 in RUNNABLE"DestroyJavaVM" Id=15 in RUNNABLE
+
+    Locked synchronizers: count = 0    Locked synchronizers: count = 0
+
+DeadLock. start ....................DeadLock. start ....................
+DeadLock. end ....................DeadLock. end ....................
+++++++++++++++++++++++++++++++++++++++++Wed Nov 15 16:30:56 IST 2017++++++++++++++++++++++++++++++++++++++++Wed Nov 15 16:30:56 IST 2017
